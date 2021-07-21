@@ -1,5 +1,8 @@
-### Hi there 👋
-
+- 👋 Hi, I’m Shafiq Aiman
+- 👀 I’m interested in: you HAHAHAHA
+- 🌱 I’m currently learning: how to jump
+- 📫 How to reach me: by sitting closer to me
+- 💬 Ask me about: your question
 <!--
 **Doct3rJohn/doct3rjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
